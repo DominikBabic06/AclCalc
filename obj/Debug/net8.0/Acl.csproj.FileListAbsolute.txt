@@ -1,0 +1,14 @@
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Debug/net8.0/Acl
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Debug/net8.0/Acl.deps.json
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Debug/net8.0/Acl.runtimeconfig.json
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Debug/net8.0/Acl.dll
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Debug/net8.0/Acl.pdb
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.AssemblyInfoInputs.cache
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.AssemblyInfo.cs
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.csproj.CoreCompileInputs.cache
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.dll
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/refint/Acl.dll
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.pdb
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.genruntimeconfig.cache
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/ref/Acl.dll
