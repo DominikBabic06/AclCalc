@@ -12,3 +12,4 @@
 /Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.pdb
 /Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.genruntimeconfig.cache
 /Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/ref/Acl.dll
+/Users/dominikbabic/Documents/Code/dotnet/Acl/obj/Debug/net8.0/Acl.sourcelink.json
