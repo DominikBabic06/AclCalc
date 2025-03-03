@@ -1,10 +1,7 @@
 ﻿class Program
 {
     static void DrawTable(List<int> accepted, List<int> rejected)
-    {
-        Console.WriteLine(
-            "\n✅ Akzeptierte Zahlen (Grün) / ❌ Explizit Abgelehnte Zahlen (Rot) / ⚠️ Restliche Abgelehnte Zahlen (Gelb):"
-        );
+    { 
         Console.WriteLine("   0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15");
         Console.WriteLine("----------------------------------------------------------------");
 
@@ -54,7 +51,7 @@
             Console.WriteLine(
                 "⚠️ Gelb: Implizit abgelehnte Zahlen (nicht explizit erlaubt oder abgelehnt)\n"
             );
-            Console.WriteLine("x für exit oder r für rest bei jedem input");
+            Console.WriteLine("x für exit oder r für reset bei jedem input");
 
             DrawTable(accepted, rejected);
 
