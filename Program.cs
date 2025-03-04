@@ -1,7 +1,7 @@
 ﻿class Program
 {
     static void DrawTable(List<int> accepted, List<int> rejected)
-    { 
+    {
         Console.WriteLine("   0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15");
         Console.WriteLine("----------------------------------------------------------------");
 
@@ -165,11 +165,13 @@
                 {
                     if (DenyMode)
                     {
-                        rejected.Add(i);
+                        if (!accepted.Contains(i))
+                            rejected.Add(i);
                     }
                     else
                     {
-                        accepted.Add(i);
+                        if (!rejected.Contains(i))
+                            accepted.Add(i);
                     }
                 }
             }
