@@ -1,0 +1,5 @@
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Release/net8.0/win-x64/publish/Acl.exe
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Release/net8.0/win-x64/publish/Acl.dll
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Release/net8.0/win-x64/publish/Acl.deps.json
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Release/net8.0/win-x64/publish/Acl.runtimeconfig.json
+/Users/dominikbabic/Documents/Code/dotnet/Acl/bin/Release/net8.0/win-x64/publish/Acl.pdb
